@@ -5,7 +5,7 @@
 <br />
 
 ```cs
-public class Jok3rGR extends Person implements Gamer, Developer {
+public class Kebab extends Person implements Gamer, Developer {
     
     @Override
     public void aboutMe() {
