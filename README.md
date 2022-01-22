@@ -21,7 +21,7 @@ public class Kεbab extends Person implements Gamer, Developer {
     
 }
 ```
-<!---   🔭 I’m currently working on Project Z, An all-around discord Bot
+<!---   🔭 I’m currently working on Raindrop, An all-around discord Bot
 -   🌱 I'm Fond With Javascript and currently learning Python !
 -   🤔 I’m trying to Become a Verified Discord Developer by the end of this year
 -   ⚡ Fun fact: I like to play guitar!-->
@@ -37,13 +37,9 @@ public class Kεbab extends Person implements Gamer, Developer {
 
 <br />
 
-<!--📕 **Latest Blog Posts**-->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--➡️ [more posts...][website]-->
-
+<p>you can Find Me Here</p>
+<img alt="Website" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Fgeorge.nulledgr.eu%2F">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Null_Kebab?color=magenta&label=Twitter&style=for-the-badge">
 ---
 
 <!--START_SECTION:waka-->
