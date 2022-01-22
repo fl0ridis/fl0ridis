@@ -1,5 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kεbαb</a>!</h1><!-- 👋 -->
-
+<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Fgeorge.nulledgr.eu%2F">
+<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Null_Kebab?color=magenta&label=Twitter&style=for-the-badge">
 <br />
 <!--## I'm a YouTuber, Gamer, and Developer!-->
 <br />
@@ -37,9 +38,8 @@ public class Kεbab extends Person implements Gamer, Developer {
 
 <br />
 <!--START_SECTION:waka-->
-🐥 **My Socials** 
-<img alt="Website" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Fgeorge.nulledgr.eu%2F">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Null_Kebab?color=magenta&label=Twitter&style=for-the-badge">
+
+
 <!--END_SECTION:waka-->
 ---
 
