@@ -63,6 +63,6 @@ Project Z                251 hr 21 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ---
-   <img align="left" width="450px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=kebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+   <img align="left" width="450px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&show_icons=true&hide_border=true&theme=midnight-purple" />
   <img align="left" width="450px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 
