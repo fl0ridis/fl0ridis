@@ -46,23 +46,11 @@ public class Kεbab extends Person implements Gamer, Developer {
 <!--START_SECTION:waka-->
 📊 **General Statistics** 
 
-```text
-💬 Programming Languages:
-JavaScript               231 hr 37 mins      █████████████████░░░░░░░░  75.43%
-Python                   68 hr 23 mins       ███████████░░░░░░░░░░░░░░   16.32%
-
-🔥 Editors: 
-VS Code                  316 hr 43 mins      ████████████████████░░░░░   80.19% 
-Pycharm                  68 hr 23 mins       ███████████░░░░░░░░░░░░░░   16.32%
-
-🐱‍💻 Projects: 
-Project Z                251 hr 21 mins      █████████████████████████   100.00% 
-```
-
+   <img align="left" width="450px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+  <img align="right" width="450px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 
 <!--END_SECTION:waka-->
 
----
-   <img align="left" width="450px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img align="left" width="450px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+
+
 
