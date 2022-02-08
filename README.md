@@ -46,7 +46,7 @@ public class Kεbab extends Person implements Gamer, Developer {
 <!--START_SECTION:waka-->
 📊 **General Statistics** 
 
-   <img align="left" width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true" />
+   <img align="left" width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
   <img align="right" width="400px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 
 <!--END_SECTION:waka-->
