@@ -1,31 +1,17 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kεbαb</a>!</h1><!-- 👋 -->
-<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Filovewhor.es%2F">
-<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Null_Kebab?color=magenta&label=Twitter&style=for-the-badge">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kebab</a>!</h1><!-- 👋 -->
+<div  align="center">
+<img  alt="Website" margin-right"2vw" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Filovewhor.es%2F">
+<img  alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nullkebab?color=magenta&label=Twitter&style=for-the-badge">
+</div>
 <br />
 <!--## I'm a YouTuber, Gamer, and Developer!-->
 <br />
 
-```java
-public class Kεbab extends Person implements Gamer, Developer {
-    
-    @Override
-    public void aboutMe() {
-        public String funFact = "I play guitar";
-    }
-    
-    @Override
-    public void codingStuff() {
-        public String[] workingOn = ["Project Z"];
-        public String[] learning = ["JavaScript", "Discord.JS", "Java"];
-        public String tryingTo = "Get in her pants";
-    }
-    
-}
-```
-<!---   🔭 I’m currently working on Raindrop, An all-around discord Bot
--   🌱 I'm Fond With Javascript and currently learning Python !
--   🤔 I’m trying to Become a Verified Discord Developer by the end of this year
--   ⚡ Fun fact: I like to play guitar!-->
+-   ☑️ I'm a verified discord developer
+-   🔭 I’m currently studying for my finals this year
+-   🧠 I'm Fond With Javascript and currently learning Python !
+-   🎮 I play Valorant, Fortnite, GTA Roleplay on NoPixel, MostWanted And 2080
+
 
 **Languages and Tools:**
 
@@ -45,10 +31,10 @@ public class Kεbab extends Person implements Gamer, Developer {
 
 <!--START_SECTION:waka-->
 📊 **General Statistics** 
-
-   <img align="left" width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img align="right" width="400px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
-
+<div  align="center">
+   <img align="left"   width="486px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
+  <img align="right" width="486px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+</div>
 <!--END_SECTION:waka-->
 
 
