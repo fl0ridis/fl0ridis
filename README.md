@@ -32,8 +32,8 @@
 <!--START_SECTION:waka-->
 📊 **General Statistics** 
 <div  align="center">
-   <img align="left"   width="460px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img align="right" width="460px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+   <img align="left"   width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
+  <img align="right" width="400px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 </div>
 <!--END_SECTION:waka-->
 
