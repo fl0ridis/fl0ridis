@@ -36,10 +36,11 @@
    <img align="left"   width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
   <img align="right" width="400px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 </div>
-    <img align= "center" src="https://lanyard.cnrad.dev/api/814860134479691807?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
-
 <!--END_SECTION:waka-->
 
+<br/>
+ Contact Me
+    <img align= "center" src="https://lanyard.cnrad.dev/api/814860134479691807?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
 
 
 
