@@ -26,10 +26,11 @@
 
 📊 **General Statistics** 
 
-<img align="left" alt="Kebab's Github Statistics" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-<img align="right" alt="Kebab's Github Statistics" width="350px" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
-<br />
-<br />
-<h1 align="left"></a></h1><!-- 👋 -->
+<img align="left" alt="Kebab's Github Statistics" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=false&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact&hide=YAML,Bash,Typescript,other" />
+<img align="right" alt="Kebab's Github Statistics" width="400px" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
 
 
+<br />
+
+<h1 align="center"></a></h1><!-- 👋 -->
+test
