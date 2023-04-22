@@ -18,19 +18,18 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-
 <br />
+
 <h1 align="center"></a></h1><!-- 👋 -->
 
 
-<!--START_SECTION:waka-->
+
 📊 **General Statistics** 
-<div  align="center">
-   <img align="left"   width="400px"  alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img align="right" width="400px" alt="Kεbαb's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
-</div>
-<br/>
-<h1 align="center"></a></h1><!-- 👋 -->
+
+<img align="left" alt="Kebab's Github Statistics" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=true&show_icons=true&hide_border=true&theme=midnight-purple" />
+<img align="right" alt="Kebab's Github Statistics" width="350px" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+<br />
+<br />
+<h1 align="left"></a></h1><!-- 👋 -->
 
 
