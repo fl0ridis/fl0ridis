@@ -5,9 +5,9 @@
 </div>
 
 -   ☑️ I'm a verified discord developer
--   🔭 I’m currently studying for my finals this year
+-   🔭 I’m currently a student at ionian university!
 -   🧠 I'm Fond With Javascript and currently learning Python !
--   🎮 I play Valorant, Fortnite, GTA Roleplay on NoPixel, MostWanted And 2080
+-   🎮 I play Valorant, Fortnite, GTA Roleplay on NoPixel And 2080
 
 <h1 align="center"></a></h1><!-- 👋 -->
 
