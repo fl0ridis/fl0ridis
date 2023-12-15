@@ -5,22 +5,27 @@
 </div>
 
 -   ☑️ I'm a verified discord developer
--   🔭 I’m currently a student at ionian university!
--   🧠 I'm Fond With Javascript and currently learning Python !
--   🎮 I play Valorant, Fortnite, GTA Roleplay on NoPixel And 2080
+-   🔭 I’m currently studying Computer Science at Ionian University
+-   🧠 I'm Fond With Javascript and Python and currently learning C !
+-   🎮 I play Valorant, Fortnite and GTA Roleplay on NoPixel
 
 <h1 align="center"></a></h1><!-- 👋 -->
 
 **Languages and Tools:**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/clion.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/python-color.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/html5-color.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/css3-color.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/javascript-color.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/react-color.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/c-color.svg" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/amazonaws-color.svg" />
+<img align="left" alt="Oracle Web Servers" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/oracle-color.svg" />
+<img align="left" alt="Clion" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/clion-color.svg" />
+<img align="left" alt="intellijidea" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/intellijidea-color.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/visualstudiocode-color.svg" />
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/git-color.svg" />
+
 
 <br />
 
