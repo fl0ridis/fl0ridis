@@ -27,7 +27,7 @@
 📊 **General Statistics** 
 
 <img align="left" alt="Kebab's Github Statistics" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kebab&include_all_commits=false&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact&hide=YAML,Bash,Typescript,other" />
-<img  alt="Kebab's Github Statistics" width="400px" src="https://github-readme-stats.vercel.app/api?username=NulledKebab&show_icons=true&hide_border=true&theme=midnight-purple" />
+<img  alt="Kebab's Github Statistics" width="400px" src="https://github-readme-stats.vercel.app/api?username=fl0ridis&show_icons=true&hide_border=true&theme=midnight-purple" />
 
 <br />
 
@@ -37,4 +37,4 @@
 🤙 **Contact Me** 
 
 
-<img  alt="Kebab's Github Statistics" width="400px" src="https://lanyard.cnrad.dev/api/814860134479691807?bg=000000&idleMessage=Probably%20doing%20something%20else..." />
+<img  alt="Kebab's Socials" width="400px" src="https://lanyard.cnrad.dev/api/814860134479691807?bg=000000&idleMessage=Probably%20doing%20something%20else..." />
