@@ -21,6 +21,7 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/c-color.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/amazonaws-color.svg" />
 <img align="left" alt="Oracle Web Servers" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/oracle-color.svg" />
+<img align="left" alt="Cloudflare CDN" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/cloudflare-color.svg" />
 <img align="left" alt="Clion" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/clion-color.svg" />
 <img align="left" alt="intellijidea" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/intellijidea-color.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/fl0ridis/NulledKebab/main/SVG/visualstudiocode-color.svg" />
