@@ -6,7 +6,7 @@
 
 -   ☑️ I'm a verified discord developer
 -   🔭 I’m currently studying Computer Science at Ionian University
--   🧠 I'm Fond With Javascript and Python and currently learning C !
+-   🧠 I'm Fond With Javascript, Python, C, C++ and currently learning Java !
 -   🎮 I play Valorant, Fortnite and GTA Roleplay on NoPixel
 
 <h1 align="center"></a></h1><!-- 👋 -->
