@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm George</a>!</h1><!-- 👋 -->
 <div  align="center">
-<img  alt="Website" margin-right"2vw" src="https://img.shields.io/website?down_color=red&label=Kebab&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Fxise.me%2F">
+<img  alt="Website" margin-right"2vw" src="https://img.shields.io/website?down_color=red&label=Website&style=for-the-badge&up_color=magenta&url=https%3A%2F%2Fxise.me%2F">
 <img  alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fl0ridis?color=magenta&label=Twitter&style=for-the-badge">
 </div>
 
